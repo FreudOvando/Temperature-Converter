@@ -1,0 +1,163 @@
+
+body{
+background-image: url("https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0%;
+padding: 0%;
+flex-direction: column;
+}
+
+.container{
+margin: 0;
+background-color: #110040;
+border-radius: 1px;
+}
+
+.title{
+min-width: 300px;
+max-width: 480px;
+font-family: Roboto, sans-serif;
+font-size: 14px;
+color:  rgb(17, 171, 3);
+background-color: #090022;
+justify-content: center;
+display: flex;
+align-items: flex-start;
+flex-direction: column;
+margin: 0px;
+padding: 0%;
+border-radius: 20px;
+}
+
+h1{
+margin: auto;
+padding: 1px;
+}
+p{
+margin: auto;
+padding: 1px;
+} 
+
+li{
+margin: auto;
+padding: 1px;
+list-style: none;
+}
+   
+#int{
+position: sticky;
+text-align: center;
+font-family: Roboto, sans-serif;
+background-color: #090022;
+border-radius: 10px;
+color: rgb(17, 171, 3);
+min-width: 200px;
+max-width: 350px;
+height: 50px;
+font-size: 30px;
+padding: 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+border: 8px solid #110040;
+margin: auto;
+margin-bottom: 15px;
+}
+
+.result{
+font-family: Roboto, sans-serif;
+background-color: #090022;
+border-radius: 10px;
+color: rgb(17, 171, 3);
+min-width: 200px;
+max-width: 350px;
+height: 50px;
+font-size: 30px;
+padding: 15px;
+display: flex;
+align-items: center;
+justify-content: center;
+border: 8px solid #110040;
+margin-bottom: 15px;
+margin: auto;
+}
+
+button{
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+    padding: 0;
+    max-width: 300px;
+    min-width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 40px;
+    background-color: #110040;
+    color: rgb(17, 171, 3);
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(17, 171, 3);
+    color: #110040;
+}
+
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0%;
+    padding: 0%;
+    flex-direction: column;
+}
+
+.C, .K, .F, .R {
+    max-width: 300px;
+    min-width: 100px;
+    width: 100px auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+#clr{
+    width: 200px;
+    height: 50px;
+    max-width: 350px;
+    min-width: 200px;
+    margin: 10px;
+}
+
+.pie{
+display: flex;
+align-items: center;
+justify-content: center;
+margin: auto;
+padding: 0;
+font-family: Roboto, sans-serif;
+height: 100px;
+width: 400px;
+margin: 2px;
+padding: 0;
+background-color: #10003d;
+color: white;
+}
+
+footer img {
+width: 50px;
+height: 50px;
+margin: 10px;
+}
+
+img:hover{
+background-color: white;
+}
+
+/*
+<p>/freud-ovando-337672248</p>
+ <p>/freud.ovandolara</p>
+ /*
